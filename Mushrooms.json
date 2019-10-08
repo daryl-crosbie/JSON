@@ -1,11 +1,20 @@
 [
   {
-    "Name": "Shiitake Shrooms",
+    "Name": "Shiitake",
     "Location": "Asia",
     "Details": "Shiitake grow in groups on the decaying wood of deciduous trees, particularly shii, chestnut, oak, maple, beech, sweetgum, poplar, hornbeam, ironwood, mulberry, and chinquapin. Its natural distribution includes warm and moist climates in southeast Asia",
     "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shiitakegrowing.jpg/330px-Shiitakegrowing.jpg",
-    "Usage": [ "Edible", "Magic", "Toxic"],
+    "Usage": [ "Edible" ],
     "Latitude": -8.783195,
     "Longitude": 34.508523
+  },
+   {
+    "Name": "Amanita Muscaria (Fly Agaric)",
+    "Location": "Nothern Hemispere",
+    "Details": "Amanita muscaria, commonly known as the fly agaric or fly amanita, is a basidiomycete of the genus Amanita.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2006-10-25_Amanita_muscaria_crop.jpg/330px-2006-10-25_Amanita_muscaria_crop.jpg",
+    "Usage": [ "Edible", "Magic", "Toxic"],
+    "Latitude": 14.493913,
+    "Longitude": 61.617804
   }
 ]
