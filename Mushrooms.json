@@ -5,6 +5,8 @@
     "Details": "Shiitake grow in groups on the decaying wood of deciduous trees, particularly shii, chestnut, oak, maple, beech, sweetgum, poplar, hornbeam, ironwood, mulberry, and chinquapin. Its natural distribution includes warm and moist climates in southeast Asia",
     "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shiitakegrowing.jpg/330px-Shiitakegrowing.jpg",
     "Usage": "Edible",
+    "SeasonStart": 6,
+    "SeasonEnd": 9,
     "Latitude": 34.971630,
     "Longitude": 133.228775
   },
@@ -14,6 +16,8 @@
     "Details": "Amanita muscaria, commonly known as the fly agaric or fly amanita, is a basidiomycete of the genus Amanita.",
     "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2006-10-25_Amanita_muscaria_crop.jpg/330px-2006-10-25_Amanita_muscaria_crop.jpg",
     "Usage": "Magic",
+    "SeasonStart": 4,
+    "SeasonEnd": 7,
     "Latitude": 56.192118,
     "Longitude": 21.213835
   },
@@ -23,6 +27,8 @@
     "Details": "Amanita phalloides, commonly known as the death cap, is a deadly poisonous basidiomycete fungus, one of many in the genus Amanita. Widely distributed across Europe, but now sprouting in other parts of the world, A. phalloides forms ectomycorrhizas with various broadleaved trees. ",
     "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amanita_phalloides_1.JPG/351px-Amanita_phalloides_1.JPG",
     "Usage": "Toxic",
+    "SeasonStart": 7,
+    "SeasonEnd": 10,
     "Latitude": -34.821829,
     "Longitude": 116.672717
   }
