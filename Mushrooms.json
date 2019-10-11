@@ -31,5 +31,16 @@
     "SeasonEnd": 10,
     "Latitude": -34.821829,
     "Longitude": 116.672717
+  },
+  {
+    "Name": "Psilocybe Semilanceata",
+    "Location": "Europe",
+    "Details": "Psilocybe semilanceata, commonly known as the liberty cap, is a species of fungus which produces the psychoactive compounds psilocybin and baeocystin. It is both one of the most widely distributed psilocybin mushrooms in nature, and one of the most potent. The mushrooms have a distinctive conical to bell-shaped cap, up to 2.5 cm (1.0 in) in diameter, with a small nipple-like protrusion on the top. They are yellow to brown, covered with radial grooves when moist, and fade to a lighter color as they mature. Their stipes tend to be slender and long, and the same color or slightly lighter than the cap. The gill attachment to the stipe is adnexed (narrowly attached), and they are initially cream-colored before tinting purple as the spores mature. The spores are dark purplish-brown in mass, ellipsoid in shape, and measure 10.5–15 by 6.5–8.5 micrometres. The mushroom grows in grassland habitats, especially wetter areas. But unlike P. cubensis, the fungus does not grow directly on dung; rather, it is a saprobic species that feeds off decaying grass roots. It is widely distributed in the temperate areas of the Northern Hemisphere, particularly in Europe, and has been reported occasionally in temperate areas of the Southern Hemisphere as well. The earliest reliable history of P. semilanceata intoxication dates back to 1799 in London, and in the 1960s the mushroom was the first European species confirmed to contain psilocybin.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Psilocybe.semilanceata.Alan.jpg/351px-Psilocybe.semilanceata.Alan.jpg",
+    "Usage": "Magic",
+    "SeasonStart": 9,
+    "SeasonEnd": 11,
+    "Latitude": 53.152296,
+    "Longitude": -6.182464
   }
 ]
