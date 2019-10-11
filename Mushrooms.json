@@ -31,7 +31,7 @@
     "SeasonEnd": 10,
     "Latitude": -34.821829,
     "Longitude": 116.672717
-  }
+  },
   {
     "Name": "Psilocybe Semilanceata",
     "Location": "Europe",
@@ -42,7 +42,7 @@
     "SeasonEnd": 11,
     "Latitude": 53.152296,
     "Longitude": -6.182464
-  }
+  },
    {
     "Name": "Boletus edulis",
     "Location": "Northern Hemisphere",
@@ -53,7 +53,7 @@
     "SeasonEnd": 11,
     "Latitude": 49.095689,
     "Longitude": -104.118366
-  }
+  },
   {
     "Name": "Omphalotus olearius",
     "Location": "Europe",
