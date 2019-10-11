@@ -31,38 +31,5 @@
     "SeasonEnd": 10,
     "Latitude": -34.821829,
     "Longitude": 116.672717
-  },
-  {
-    "Name": "Psilocybe Semilanceata",
-    "Location": "Europe",
-    "Details": "Psilocybe semilanceata, commonly known as the liberty cap, is a species of fungus which produces the psychoactive compounds psilocybin and baeocystin. It is both one of the most widely distributed psilocybin mushrooms in nature, and one of the most potent. The mushrooms have a distinctive conical to bell-shaped cap, up to 2.5 cm (1.0 in) in diameter, with a small nipple-like protrusion on the top. They are yellow to brown, covered with radial grooves when moist, and fade to a lighter color as they mature. Their stipes tend to be slender and long, and the same color or slightly lighter than the cap. The gill attachment to the stipe is adnexed (narrowly attached), and they are initially cream-colored before tinting purple as the spores mature. The spores are dark purplish-brown in mass, ellipsoid in shape, and measure 10.5–15 by 6.5–8.5 micrometres. The mushroom grows in grassland habitats, especially wetter areas. But unlike P. cubensis, the fungus does not grow directly on dung; rather, it is a saprobic species that feeds off decaying grass roots. It is widely distributed in the temperate areas of the Northern Hemisphere, particularly in Europe, and has been reported occasionally in temperate areas of the Southern Hemisphere as well. The earliest reliable history of P. semilanceata intoxication dates back to 1799 in London, and in the 1960s the mushroom was the first European species confirmed to contain psilocybin.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Psilocybe.semilanceata.Alan.jpg/351px-Psilocybe.semilanceata.Alan.jpg",
-    "Usage": "Magic",
-    "SeasonStart": 9,
-    "SeasonEnd": 11,
-    "Latitude": 53.152296,
-    "Longitude": -6.182464
-  },
-   {
-    "Name": "Boletus edulis",
-    "Location": "Northern Hemisphere",
-    "Details": "Boletus edulis (English: penny bun, cep, porcino or porcini) is a basidiomycete fungus, and the type species of the genus Boletus. Widely distributed in the Northern Hemisphere across Europe, Asia, and North America, it does not occur naturally in the Southern Hemisphere, although it has been introduced to southern Africa, Australia, New Zealand, and Brazil. Several closely related European mushrooms formerly thought to be varieties or forms of B. edulis have been shown using molecular phylogenetic analysis to be distinct species, and others previously classed as separate species are conspecific with this species. The western North American species commonly known as the California king bolete (Boletus edulis var. grandedulis) is a large, darker-coloured variant first formally identified in 2007. The fungus grows in deciduous and coniferous forests and tree plantations, forming symbiotic ectomycorrhizal associations with living trees by enveloping the tree's underground roots with sheaths of fungal tissue. The fungus produces spore-bearing fruit bodies above ground in summer and autumn. The fruit body has a large brown cap which on occasion can reach 35 cm (14 in) in diameter and 3 kg (6.6 lb) in weight. Like other boletes, it has tubes extending downward from the underside of the cap, rather than gills; spores escape at maturity through the tube openings, or pores. The pore surface of the B. edulis fruit body is whitish when young, but ages to a greenish-yellow. The stout stipe, or stem, is white or yellowish in colour, up to 25 cm (10 in) tall and 10 cm (4 in) thick, and partially covered with a raised network pattern, or reticulations. Prized as an ingredient in various foods, B. edulis is an edible mushroom held in high regard in many cuisines, and is commonly prepared and eaten in soups, pasta, or risotto. The mushroom is low in fat and digestible carbohydrates, and high in protein, vitamins, minerals and dietary fibre. Although it is sold commercially, it is very difficult to cultivate. Available fresh in autumn in Central, Southern and Northern Europe, it is most often dried, packaged and distributed worldwide. It keeps its flavour after drying, and it is then reconstituted and used in cooking. B. edulis is one of the few fungi sold pickled.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Boletus_edulis_EtgHollande_041031_091.jpg/351px-Boletus_edulis_EtgHollande_041031_091.jpg",
-    "Usage": "Edible",
-    "SeasonStart": 6,
-    "SeasonEnd": 11,
-    "Latitude": 49.095689,
-    "Longitude": -104.118366
-  },
-  {
-    "Name": "Omphalotus olearius",
-    "Location": "Europe",
-    "Details": "Omphalotus olearius, commonly known as the jack-o'-lantern mushroom, is a poisonous orange gilled mushroom that to an untrained eye appears similar to some chanterelles. It is notable for its bioluminescent properties. It is found in woodland areas in Europe, where it grows on decaying stumps, on buried roots or at the base of hardwood trees. It has also been reported from the Western Cape Province, South Africa. A similar, but phylogenetically distinct[2] species found in eastern North America is Omphalotus illudens. Unlike chanterelles, Omphalotus olearius and other Omphalotus species contain the toxin illudin S, and are poisonous to humans. While not lethal, consuming this mushroom leads to very severe cramps, vomiting, and diarrhea.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Omphalotus_olearius_Mallorca.jpg/300px-Omphalotus_olearius_Mallorca.jpg",
-    "Usage": "Toxic",
-    "SeasonStart": 3,
-    "SeasonEnd": 8,
-    "Latitude": 51.037346,
-    "Longitude": 33.612082
   }
 ]
